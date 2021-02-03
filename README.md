@@ -24,7 +24,7 @@ Would love to see what insights you all come up with.
 
 
 ```
-pip instal "Janome == 0.3.7"
+pip install "Janome == 0.3.7"
 
 ```
  
