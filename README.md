@@ -19,7 +19,11 @@ to navigate through this is to downgrade from Janome 0.4.1 to Janome 0.3.7.
 
 
 For your personal project, I've uploaded the dataset onto
+
+
 https://www.kaggle.com/andresha/yoshihide-suga-tweets-sugawitter. 
+
+
 Would love to see what insights you all come up with. 
 
 
@@ -29,7 +33,9 @@ pip install "Janome == 0.3.7"
 ```
  
 Readings: 
+
 https://asia.nikkei.com/Politics/Suga-s-approval-rating-remains-low-at-43-Nikkei-poll
+
 https://github.com/Hironsan/asari
 
 
