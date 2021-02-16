@@ -1,4 +1,4 @@
-# My Boy Suga
+# My Boy Suga - Analysis of New Japanese Prime Minister Yoshihide Suga. 
 
 ## Tl;dr: clean dataset for further NLP analyses. Example projects. 
 
